@@ -1,0 +1,40 @@
+
+body{
+
+    text-align: center;
+    color: white;
+    font-family: "Isometra", serif;
+   
+}
+
+.hero{
+    background-image: url(dark.jpg) ;
+    background-size: cover;
+    padding: 0px 0px 150px 0px;
+    margin: -8px
+}
+
+.btn{
+    font: inherit;
+    padding: 5px 16px;
+    background: white;
+    border: 3px solid blue;
+    margin: 0px 10px;
+}
+
+.underline{
+    border-bottom: 4px solid greenyellow;
+}
+
+#logo{
+    width: 160px;
+    margin-top: -40px;
+}
+
+.tc{
+    color: black;
+}
+
+.section1{
+    color: black;
+}
